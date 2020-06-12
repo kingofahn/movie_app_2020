@@ -5,8 +5,13 @@ function About(props) {
     console.log(props)
     return (
         <div className="about_container">
-            <span>"Freedom is the freedom to say that two plus two make four. If that is granted, all else follows."</span>
-            <span>- George Orwell, 1984</span>
+            <h1>Hyungjun Ahn</h1>
+            <p>Web Developer</p>
+            <p>Linkedin profile : www.linkedin.com/in/hyungjun-ahn-aaa0731a8</p>
+            <p>Github : https://github.com/kingofahn</p>
+
+
+            
         </div>
     );
 }
