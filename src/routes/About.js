@@ -9,9 +9,6 @@ function About(props) {
             <p>Web Developer</p>
             <p>Linkedin profile : www.linkedin.com/in/hyungjun-ahn-aaa0731a8</p>
             <p>Github : https://github.com/kingofahn</p>
-
-
-            
         </div>
     );
 }
